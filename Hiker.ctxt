@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Hiker
+comment0.text=\n\ Write\ a\ description\ of\ class\ Hicker\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ handleKeyPresses()
+comment3.params=k\ sX\ sY
+comment3.target=void\ handleArrowKey(java.lang.String,\ int,\ int)
+comment4.params=
+comment4.target=void\ handleCollisions()
+comment5.params=
+comment5.target=void\ boundedMove()
+numComments=6

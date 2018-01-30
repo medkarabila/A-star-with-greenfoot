@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Mouse
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=initilization
+comment2.params=
+comment2.target=void\ sense()
+comment3.params=
+comment3.target=void\ reaction()
+numComments=4
